@@ -48,6 +48,7 @@ Download the following files and place them in the appropriate directories:
 
 - **Videos**: [Download Videos](https://drive.google.com/drive/folders/109N1-t68UZfEtdLT2k23h3sF6CvaO2N-?usp=sharing)
   - Place the downloaded videos in a folder named `Videos` in the project root
+  - Place the randomNano.pt in the project root folder
 
 - **Model Weights**: [Download RF-DETR Weights](https://drive.google.com/file/d/1ktpPqfW9LSpzfn8GFVOB1GQ488CB6Igj/view?usp=sharing)
   - Place the checkpoint file in the project root directory
