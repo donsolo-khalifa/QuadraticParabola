@@ -5,7 +5,6 @@
 This project demonstrates how quadratic equations apply to real-world physics by predicting the trajectories of moving objects (like balls) in video. It uses computer vision to track objects and polynomial regression to fit a parabolic curve to the tracked path, showing how the mathematical model y = ax² + bx + c relates directly to projectile motion.
 
 ![Trajectory Prediction Demo](thumbnail.png)
-![Trajectory Prediction Demo](https://www.reddit.com/r/computervision/comments/1klp3so/using_python_cv_to_visualize_quadratic_equations/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ## 🎯 Purpose
 
