@@ -1,0 +1,59 @@
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# IDE related
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific - exclude large files
+# Videos folder 
+Videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Model weights
+*.pt
+*.pth
+checkpoint_best_ema.pth
+checkpoint_best_regular.pth
+randomNano.pt
+rf-detr-base.pth
+
+# Output files
+tracked_output.mp4
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log

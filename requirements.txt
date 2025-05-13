@@ -1,0 +1,6 @@
+opencv-python
+numpy
+cvzone
+ultralytics
+supervision
+rfdetr
